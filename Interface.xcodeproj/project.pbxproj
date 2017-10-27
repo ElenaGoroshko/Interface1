@@ -13,6 +13,7 @@
 		9B71DF251FA36EC600B29B58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B71DF231FA36EC600B29B58 /* LaunchScreen.storyboard */; };
 		9B71DF2D1FA36F5C00B29B58 /* SmileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71DF2C1FA36F5C00B29B58 /* SmileViewController.swift */; };
 		9B71DF2F1FA36FAC00B29B58 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71DF2E1FA36FAC00B29B58 /* LoginViewController.swift */; };
+		9B71DF311FA3AE1600B29B58 /* ChessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71DF301FA3AE1600B29B58 /* ChessViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B71DF261FA36EC600B29B58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B71DF2C1FA36F5C00B29B58 /* SmileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmileViewController.swift; sourceTree = "<group>"; };
 		9B71DF2E1FA36FAC00B29B58 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		9B71DF301FA3AE1600B29B58 /* ChessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9B71DF2C1FA36F5C00B29B58 /* SmileViewController.swift */,
 				9B71DF2E1FA36FAC00B29B58 /* LoginViewController.swift */,
+				9B71DF301FA3AE1600B29B58 /* ChessViewController.swift */,
 				9B71DF1A1FA36EC600B29B58 /* AppDelegate.swift */,
 				9B71DF1E1FA36EC600B29B58 /* Main.storyboard */,
 				9B71DF211FA36EC600B29B58 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B71DF2F1FA36FAC00B29B58 /* LoginViewController.swift in Sources */,
+				9B71DF311FA3AE1600B29B58 /* ChessViewController.swift in Sources */,
 				9B71DF1B1FA36EC600B29B58 /* AppDelegate.swift in Sources */,
 				9B71DF2D1FA36F5C00B29B58 /* SmileViewController.swift in Sources */,
 			);
